@@ -1,6 +1,6 @@
 # Design Skill Orchestrator
 
-A design helper for AI assistants. Describe what you want to build, and it handles the design details for you.
+It's level-up version of [frontend-design](https://github.com/anthropics/claude-plugins-official/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md) of Anthropic, not fast-food template, not ai-looking-style template. It's knowledge for your agents.
 
 ## How to Use
 
