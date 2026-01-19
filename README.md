@@ -69,7 +69,7 @@ Just describe what you're building and what you want it to do. The system will:
 
 ## Requirements
 
-- OpenCode AI assistant (or compatible platform)
+- OpenCode, Amp, Droid, Claude Code
 - Next.js 16+ project
 - Tailwind CSS v4
 - shadcn/ui components
